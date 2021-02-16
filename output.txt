@@ -1,0 +1,116 @@
+output.txt
+
+cd "/Users/apple/Desktop/PE4/" && g++ TicTacToe.cpp -o TicTacToe && "/Users/apple/Desktop/PE4/"TicTacToe
+
+person 1: Fengyuan Zhang
+person 2: Yuxi Liu
+
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  1  |  2  |  3
+_____|_____|_____
+  4  |  5  |  6
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+5
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  1  |  2  |  3
+_____|_____|_____
+  4  |  0  |  6
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+3
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  1  |  2  |  11
+_____|_____|_____
+  4  |  0  |  6
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+6
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  1  |  2  |  11
+_____|_____|_____
+  4  |  0  |  0
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+4
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  1  |  2  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+1
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  0  |  2  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  7  |  8  |  9
+Enter a number for putting your step:  
+9
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  0  |  2  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  7  |  8  |  11
+Enter a number for putting your step:  
+8
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  0  |  2  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  7  |  0  |  11
+Enter a number for putting your step:  
+2
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  0  |  11  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  7  |  0  |  11
+Enter a number for putting your step:  
+7
+
+Welcome to Game: Tic Tac Toe
+Player 1 (0)
+Player 2 (11)
+  0  |  11  |  11
+_____|_____|_____
+  11  |  0  |  0
+_____|_____|_____
+  0  |  0  |  11
+(base) appledeMacBook-Pro:PE4 apple$ 
